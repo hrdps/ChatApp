@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  //font-family: 'Roboto', sans-serif;
+}
+.cont {
+  margin: 0px;
+  padding: 20px !important;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+.messages {
+  font-size: 12px;
+  overflow: auto;
+}
+.av {
+  width: 35px !important  ;
+  height: 35px !important ;
+}
